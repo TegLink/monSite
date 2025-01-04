@@ -1,31 +1,14 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mon Premier Site</title>
-  <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Site</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header>
-    <h1>Bienvenue sur mon site !</h1>
-    <nav>
-      <ul>
-        <li><a href="#">Accueil</a></li>
-        <li><a href="#">À propos</a></li>
-        <li><a href="#">Contact</a></li>
-      </ul>
-    </nav>
-  </header>
-  <main>
-    <section>
-      <h2>À propos de moi</h2>
-      <p>Je suis en train de créer mon premier site web.</p>
-    </section>
-  </main>
-  <footer>
-    <p>&copy; 2025 Mon Site Web</p>
-  </footer>
-  <script src="script.js"></script>
+    <h1>Bienvenue sur mon site !</h1>
+    <script src="script.js"></script>
 </body>
 </html>
+cliqué ici pour plus d'information 
